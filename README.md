@@ -1,0 +1,12 @@
+# PASSWORD GENERATOR 
+
+CREATED USING REACT JS
+
+TAILWIND CSS
+
+HOOKS USED :
+
+1.useState
+2.useCallback
+3.UseRef
+
